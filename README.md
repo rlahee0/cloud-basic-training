@@ -5,5 +5,10 @@ aws 프리 tier로 가입 후 인스턴스 생성 및 기본환경 구축(수업
 
 <img width="2776" height="1136" alt="스크린샷 2026-06-26 132605" src="https://github.com/user-attachments/assets/8e48872b-9a1a-4895-b407-c996caeccaad" />
 
+<img width="508" height="274" alt="image" src="https://github.com/user-attachments/assets/def7d358-479f-4312-9c7f-010c00a9408e" />
+
+
 
 이론 수업 진행
+
+<img width="364" height="400" alt="image" src="https://github.com/user-attachments/assets/f8ad2878-d761-496a-a2ed-9b65847f0597" />
